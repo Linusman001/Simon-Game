@@ -3,8 +3,8 @@
 
 > How The Game Works.
 
-Firstly, the game shows the first colour in the sequence (blue). The user clicks on the blue button
+Firstly, the game shows the first colour in the sequence (i.e blue). The user clicks on the blue button
 
-Next, the game shows the next colour (red), the user has to remember the sequence is blue, red and so on and so forth.
+Next, the game shows the next colour (i.e red), the user has to remember the sequence is blue, red and so on and so forth.
 
 If the user messes up the sequence, then the game ends.
